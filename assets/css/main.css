@@ -3813,3 +3813,10 @@ body.is-mobile.landing .wrapper.style4 {
 body.is-mobile.landing #footer {
   background-color: #1d242a;
 }
+
+#email {
+  text-transform: lowercase;
+  opacity: 0.75;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size: smaller;
+}
